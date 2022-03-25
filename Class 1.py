@@ -4,7 +4,7 @@ print ("rrreerree")
 
 
 
-print (" como te llamas ")
+print (" Como te llamas tu ")
 
 name = input ()
 
